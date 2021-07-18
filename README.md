@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+<h1>This project was created by me during the course Web & React Let's Code.</h1>
+
+<h2>Getting Started with Create React App</h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
